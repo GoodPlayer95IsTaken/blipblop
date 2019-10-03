@@ -7,7 +7,7 @@ namespace blipblop
         static void Main(string[] args)
         {
             string sName;
-
+            string Sgreet;
 
         }
     }
