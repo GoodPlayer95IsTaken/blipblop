@@ -7,7 +7,15 @@ namespace blipblop
         static void Main(string[] args)
         {
             string sName;
-            string Sgreet;
+            string sGreet;
+
+            Console.WriteLine("What is your name?");
+            sName = Console.ReadLine();
+
+            swich (sName)
+                {
+                
+            }
 
         }
     }
